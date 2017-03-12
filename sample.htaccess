@@ -1,0 +1,9 @@
+php_value default_charset               SJIS
+php_value mbstring.language             Japanese
+php_value mbstring.internal_encoding    SJIS
+php_value mbstring.http_input           pass
+php_value mbstring.http_output          SJIS
+php_value mbstring.detect_order         SJIS,EUC-JP,JIS,UTF-8,ASCII
+php_value mbstring.substitute_character none
+php_value mbstring.func_overload        0
+php_flag  mbstring.encoding_translation On
