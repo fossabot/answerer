@@ -1,17 +1,22 @@
-�I�����C���X�P�W���[���Ǘ��V�X�e��
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkorai0001%2Fanswerer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkorai0001%2Fanswerer?ref=badge_shield)
 
-�@ �\�t�g�̖ړI
-��҂ł���g�����A�X�P�W���[���Ǘ��p�ɑg�񂾃T���v���A�v��
-�܂�������
+オンラインスケジュール管理システム
 
-�A ���C�Z���X
-���̃A�v���P�[�V�����Ɋ܂܂��\�[�X�ꎮ�́A
-���ׂ�GPL v2.0�̃��C�Z���X�ɂ����čĔЕz�������邱�ƂƂ��܂��B
-GPL v2.0�Ɋւ���ڂ�������
+① ソフトの目的
+作者である紅雷が、スケジュール管理用に組んだサンプルアプリ
+まだ未完成
+
+② ライセンス
+このアプリケーションに含まれるソース一式は、
+すべてGPL v2.0のライセンスにおいて再頒布を許可することとします。
+GPL v2.0に関する詳しい情報は
 http://www.gnu.org/licenses/gpl-2.0.html
-�Ŋm�F���Ă��������B
-�܂��A�������̃A�v���P�[�V������GPL v3.0�ȍ~��
-���C�Z���X���ڍs���邱�Ƃ͂���܂���B
+で確認してください。
+また、将来このアプリケーションがGPL v3.0以降に
+ライセンスを移行することはありません。
 
-�B�ݒ���@
-���߂�A�܂�������
+③設定方法
+ごめん、まだ準備中
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkorai0001%2Fanswerer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkorai0001%2Fanswerer?ref=badge_large)
